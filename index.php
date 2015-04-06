@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+<title>検索表</title>
 <meta charset="utf-8">
 <?php
 $csv = file_get_contents( '/home/hikaru.yamashita/www/fungi/project/sindan/search/k/files/アミガサ.csv' );
